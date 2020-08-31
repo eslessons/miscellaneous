@@ -11,6 +11,7 @@ Start
 Finish
 
 3. Git Hooks, Babel, & Webpack
+Start
 
 4. Continuous Integration & Automating Releases
 
