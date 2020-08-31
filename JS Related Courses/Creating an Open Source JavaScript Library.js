@@ -7,6 +7,7 @@ Start
 Finish
 
 2. Linting & Testing
+Start
 
 3. Git Hooks, Babel, & Webpack
 
