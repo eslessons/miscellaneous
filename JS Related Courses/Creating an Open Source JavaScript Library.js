@@ -4,6 +4,7 @@ Creating an Open Source JavaScript Library
 
 1. Creating an Open Source Library
 Start
+Finish
 
 2. Linting & Testing
 
