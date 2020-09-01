@@ -8,3 +8,58 @@ Finish
 
 02. Editors and Configuration
 Start
+Finish
+
+03. Package Management
+
+
+
+04. Development Web Server
+
+
+
+
+05. Automation
+
+
+
+
+06. Transpiling
+
+
+
+
+07. Bundling
+
+
+
+
+08. Linting
+
+
+
+
+09. Testing and Continuous Integration
+
+
+
+
+10. HTTP Calls
+
+
+
+
+11. Project Structure
+
+
+
+
+12. Production Build
+
+
+
+
+13. Production Deploy
+
+
+
