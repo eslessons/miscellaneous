@@ -25,7 +25,7 @@ Finish
 
 06. Transpiling
 Start
-
+Finish
 
 
 07. Bundling
