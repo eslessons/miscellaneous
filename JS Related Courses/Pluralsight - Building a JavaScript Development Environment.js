@@ -30,7 +30,7 @@ Finish
 
 07. Bundling
 Start
-
+Finish
 
 
 08. Linting
