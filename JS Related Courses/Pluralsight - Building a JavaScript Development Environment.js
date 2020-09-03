@@ -34,7 +34,7 @@ Finish
 
 08. Linting
 Start
-
+Finish
 
 09. Testing and Continuous Integration
 
