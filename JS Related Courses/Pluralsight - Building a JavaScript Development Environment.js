@@ -32,14 +32,11 @@ Finish
 Start
 Finish
 
-
 08. Linting
-
-
+Start
 
 
 09. Testing and Continuous Integration
-
 
 
 
@@ -47,9 +44,7 @@ Finish
 
 
 
-
 11. Project Structure
-
 
 
 
@@ -57,8 +52,6 @@ Finish
 
 
 
-
 13. Production Deploy
-
 
 
