@@ -46,7 +46,7 @@ Finish
 
 11. Project Structure
 Start
-
+Finish
 
 12. Production Build
 
