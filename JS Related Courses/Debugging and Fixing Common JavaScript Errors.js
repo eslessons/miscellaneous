@@ -4,7 +4,7 @@ Debugging and Fixing Common JavaScript Errors
 
 1. Debugging JavaScript
 Start
-
+Finish
 
 2. Fixing Bugs
 
