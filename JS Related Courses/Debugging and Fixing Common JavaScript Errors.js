@@ -8,7 +8,6 @@ Finish
 
 2. Fixing Bugs
 Start
-Finish
 
 3. First Bug
 
