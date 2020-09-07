@@ -22,3 +22,14 @@ It may seem surprising, but in my opinion the most important and fundamental con
 https://www.youtube.com/watch?v=Nt-qa_LlUH0
 
 */
+
+/* Learn Webpack
+
+Colt Steele
+This 10-part course teaches Webpack from scratch.  It begins with a simple question: "What is webpack?"  Quickly we move on to installing Webpack, configuring it, and adding loaders for CSS, SASS, HTML, and Files.  The course covers cache busting, setting up a dev server, and splitting up your development and production config files. We incorporate multiple Webpack plugins including clean-webpack-plugin, mini-css-extract-plugin,  optimize-css-assets-webpack-plugin, terser-webpack-plugin, and html-webpack-plugin.  It's a lot of stuff :) 
+
+- Find all the code and commits for this course in this Github repo: https://github.com/Colt/webpack-demo-app
+
+https://www.youtube.com/watch?v=3On5Z0gjf4U&list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8
+
+*/
