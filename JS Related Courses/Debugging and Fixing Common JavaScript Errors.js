@@ -4,15 +4,23 @@ Debugging and Fixing Common JavaScript Errors
 
 1. Debugging JavaScript
 Start
+1. Introduction
+2. Common JavaScript Quirks
+3. Debugging Cycle
 Finish
 
 2. Fixing Bugs
 Start
+1. The getRANTr Application
+2. Demo Application Review
 Finish
 
 3. First Bug
 Start
-
+1. Not Preventing the Default Behaviour
+2. Challenge 1 - Cannot Read Property
+3. Challenge 1 - Solution
+Finish
 
 4. Second Bug
 
