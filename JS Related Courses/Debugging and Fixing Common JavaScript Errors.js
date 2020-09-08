@@ -37,7 +37,9 @@ Finish
 
 6. Fourth Bug
 Start
-
+1. Challenge 4 - One User, Many Errors
+2. Challenge 4 - Solution
+Finish
 
 7. JavaScript Quirks
 
