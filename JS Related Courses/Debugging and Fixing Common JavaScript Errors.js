@@ -24,7 +24,9 @@ Finish
 
 4. Second Bug
 Start
-
+1. Challenge 2 - Persisting Text
+2. Challenge 2 - Solution
+Finish
 
 5. Third Bug
 
