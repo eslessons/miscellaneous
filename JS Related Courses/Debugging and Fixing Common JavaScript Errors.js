@@ -36,7 +36,7 @@ Start
 Finish
 
 6. Fourth Bug
-
+Start
 
 
 7. JavaScript Quirks
