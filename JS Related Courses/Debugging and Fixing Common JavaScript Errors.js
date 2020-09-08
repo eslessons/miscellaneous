@@ -30,7 +30,10 @@ Finish
 
 5. Third Bug
 Start
-
+1. Challenge 3 - Server Reporting 400 Bad Request Errors
+2. Questions 1
+3. Challenge 3 - Solution
+Finish
 
 6. Fourth Bug
 
