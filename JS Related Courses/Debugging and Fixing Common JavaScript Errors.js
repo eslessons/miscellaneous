@@ -48,7 +48,10 @@ Finish
 
 8. Fifth Bug
 Start
-
+1. Unexpected High Memory Usage
+2. Challenge 5- Memory Usage
+3. Challenge 5- Solution
+Finish
 
 9. Sixth Bug
 
