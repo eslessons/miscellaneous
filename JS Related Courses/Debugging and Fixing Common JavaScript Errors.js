@@ -62,7 +62,10 @@ Finish
 
 10. Seventh Bug
 Start
-
+1. Third Party Error
+2. Challenge 7 - Uncontrolled Changes
+3. Challenge 7 - Solution
+Finish
 
 11. Eighth Bug
 
