@@ -42,7 +42,7 @@ Start
 Finish
 
 7. JavaScript Quirks
-
+Start
 
 
 8. Fifth Bug
