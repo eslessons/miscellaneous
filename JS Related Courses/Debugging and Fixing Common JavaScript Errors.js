@@ -55,7 +55,10 @@ Finish
 
 9. Sixth Bug
 Start
-
+1. Slow Page Loads
+2. Challenge 6 - Impacts of Load Performance
+3. Challenge 3 - Solution
+Finish
 
 10. Seventh Bug
 
