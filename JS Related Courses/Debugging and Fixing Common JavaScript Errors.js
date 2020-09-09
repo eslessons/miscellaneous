@@ -43,7 +43,8 @@ Finish
 
 7. JavaScript Quirks
 Start
-
+1. Common JavaScript Quirks 2
+Finish
 
 8. Fifth Bug
 
