@@ -76,7 +76,12 @@ Finish
 
 12. Design for Debuggability
 Start
-
+1. Questions 2
+2. Developing for a Hostile Environment
+3. Isolating Errors
+4. Resolving Bugs
+5. Preventing Bugs
+Finish
 
 13. Wrapping Up Debugging JavaScript
 
