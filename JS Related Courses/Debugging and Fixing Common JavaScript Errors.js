@@ -85,7 +85,7 @@ Finish
 
 13. Wrapping Up Debugging JavaScript
 Start
-
-
+1. Wrapping Up
+Finish
 
 */
