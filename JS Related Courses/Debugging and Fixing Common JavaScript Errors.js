@@ -69,7 +69,10 @@ Finish
 
 11. Eighth Bug
 Start
-
+1. Network_Proxy Bug
+2. Challenge 8 - jQuery Fails to Load
+3. Challenge 8 - Solution
+Finish
 
 12. Design for Debuggability
 
