@@ -75,7 +75,7 @@ Start
 Finish
 
 12. Design for Debuggability
-
+Start
 
 
 13. Wrapping Up Debugging JavaScript
