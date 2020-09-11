@@ -19,6 +19,11 @@ Start
 Finish
 
 3. Working With Menu
+Start
+
+
+
+
 4. Interface, IPC, ImageMin & Packaging
 5. Project 2 - SysTop App
 6. System Stats & Renderer Process
