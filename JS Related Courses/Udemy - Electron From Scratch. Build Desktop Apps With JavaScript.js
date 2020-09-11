@@ -3,7 +3,11 @@ Electron From Scratch. Build Desktop Apps With JavaScript
 
 1. Introduction
 Start
-
+Welcome to the course
+Electron what why
+How electron works
+Environment code repo
+Finish
 
 2. Project 1 - Image Shrink App & Getting Started With Electron
 3. Working With Menu
