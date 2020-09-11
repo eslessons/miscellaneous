@@ -20,9 +20,11 @@ Finish
 
 3. Working With Menu
 Start
-
-
-
+	Creating a menu template
+	Menu global shortcuts
+	Menu roles
+	Open window from menu
+Finish
 
 4. Interface, IPC, ImageMin & Packaging
 5. Project 2 - SysTop App
