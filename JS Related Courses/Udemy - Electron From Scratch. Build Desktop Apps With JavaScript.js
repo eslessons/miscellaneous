@@ -10,6 +10,9 @@ Environment code repo
 Finish
 
 2. Project 1 - Image Shrink App & Getting Started With Electron
+Start
+
+
 3. Working With Menu
 4. Interface, IPC, ImageMin & Packaging
 5. Project 2 - SysTop App
