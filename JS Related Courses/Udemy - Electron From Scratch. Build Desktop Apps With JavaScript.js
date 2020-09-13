@@ -28,10 +28,14 @@ Finish
 
 4. Interface, IPC, ImageMin & Packaging
 Start
-
-
-
-
+	Creating the interface
+	Renderer node integration
+	IPC communication
+	Implementing imagemin plugins
+	Send Events to Renderer
+	Creating log files
+	Package test our app
+Finish
 
 5. Project 2 - SysTop App
 6. System Stats & Renderer Process
