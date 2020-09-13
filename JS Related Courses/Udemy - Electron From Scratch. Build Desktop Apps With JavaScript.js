@@ -27,6 +27,12 @@ Start
 Finish
 
 4. Interface, IPC, ImageMin & Packaging
+Start
+
+
+
+
+
 5. Project 2 - SysTop App
 6. System Stats & Renderer Process
 7. Storing Local Data
