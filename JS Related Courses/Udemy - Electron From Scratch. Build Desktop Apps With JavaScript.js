@@ -39,7 +39,11 @@ Finish
 
 5. Project 2 - SysTop App
 Start
-
+	Project intro
+	Boilerplate setup
+	Template assets setup
+	Creating the interface
+Finish
 
 6. System Stats & Renderer Process
 7. Storing Local Data
