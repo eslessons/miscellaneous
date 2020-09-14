@@ -46,6 +46,9 @@ Start
 Finish
 
 6. System Stats & Renderer Process
+Start
+
+
 7. Storing Local Data
 8. Tray Icon & Wrap Up
 9. Project 3 - BugLogger App & Creating the React UI
