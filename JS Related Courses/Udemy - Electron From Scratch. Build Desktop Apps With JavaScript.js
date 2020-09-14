@@ -56,7 +56,11 @@ Finish
 
 7. Storing Local Data
 Start
-
+	Creating a Store
+	Set default settings to renderer
+	Saving data to our store file
+	Use settings data in monitor
+Finish
 
 8. Tray Icon & Wrap Up
 9. Project 3 - BugLogger App & Creating the React UI
