@@ -55,6 +55,9 @@ Start
 Finish
 
 7. Storing Local Data
+Start
+
+
 8. Tray Icon & Wrap Up
 9. Project 3 - BugLogger App & Creating the React UI
 10. Main Process, IPC & MongoDB
