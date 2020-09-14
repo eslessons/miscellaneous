@@ -47,7 +47,12 @@ Finish
 
 6. System Stats & Renderer Process
 Start
-
+	Static sytem stats
+	Interval dynamic system stats
+	Progress bar CPU overload
+	Notifications API
+	Notification timing
+Finish
 
 7. Storing Local Data
 8. Tray Icon & Wrap Up
