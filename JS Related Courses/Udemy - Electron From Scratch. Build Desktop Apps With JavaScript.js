@@ -38,6 +38,9 @@ Start
 Finish
 
 5. Project 2 - SysTop App
+Start
+
+
 6. System Stats & Renderer Process
 7. Storing Local Data
 8. Tray Icon & Wrap Up
