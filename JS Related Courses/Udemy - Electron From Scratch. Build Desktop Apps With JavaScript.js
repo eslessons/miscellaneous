@@ -73,5 +73,10 @@ Start
 Finish
 
 9. Project 3 - BugLogger App & Creating the React UI
+Start
+
+
+
 10. Main Process, IPC & MongoDB
+
 */
