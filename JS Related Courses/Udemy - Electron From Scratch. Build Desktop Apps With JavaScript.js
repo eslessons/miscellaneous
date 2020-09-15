@@ -87,7 +87,15 @@ Finish
 
 10. Main Process, IPC & MongoDB
 Start
-
-
+	Setup MongoDB Atlas
+	Connect to database with Mongoose
+	Create log model
+	Get logs from database
+	Add log to database
+	Delete logs from database
+	Clear logs menu item
+	Package test our app
+	Custom icon
+Finish
 
 */
