@@ -64,7 +64,13 @@ Finish
 
 8. Tray Icon & Wrap Up
 Start
-
+	Creating a tray icon
+	Tray context menu
+	Nav toggle menu item
+	MainWindow class
+	Apptray class
+	Package test our app
+Finish
 
 9. Project 3 - BugLogger App & Creating the React UI
 10. Main Process, IPC & MongoDB
