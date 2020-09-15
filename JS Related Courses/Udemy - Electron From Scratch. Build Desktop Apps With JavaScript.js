@@ -63,6 +63,9 @@ Start
 Finish
 
 8. Tray Icon & Wrap Up
+Start
+
+
 9. Project 3 - BugLogger App & Creating the React UI
 10. Main Process, IPC & MongoDB
 */
