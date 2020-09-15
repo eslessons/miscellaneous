@@ -74,6 +74,16 @@ Finish
 
 9. Project 3 - BugLogger App & Creating the React UI
 Start
+	Project intro
+	React-Electron boilerplate setup
+	Log state table
+	LogItem component
+	Formatting dates with moment
+	AddLogItem component
+	Adding a log (UI only)
+	Displaying alerts
+	Deleting a log (UI only)
+Finish
 
 
 
