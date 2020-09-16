@@ -20,6 +20,7 @@ Start
 Finish
 
 3. Schemas
+Start
 
 4. Resolvers
 
