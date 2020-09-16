@@ -5,6 +5,7 @@ Introduction to GraphQL
 1. Introduction
 Start
 
+
 2. GraphQL
 
 3. Schemas
