@@ -4,7 +4,11 @@ Introduction to GraphQL
 
 1. Introduction
 Start
-
+	Introduction
+	What is GraphQL
+	GraphQL vs REST
+	Course Code Overview
+Finish
 
 2. GraphQL
 
