@@ -21,6 +21,17 @@ Finish
 
 3. Schemas
 Start
+	GraphQL Schemas
+	Schema Definition Language
+	Scalar & Object Types
+	Validations- Non Nullable & List
+	GraphQL Cheat Sheet
+	Query & Mutation Types
+	Writing a Mutation Type
+	Create a Schema Excercise
+	Create a Schema Solution
+	GraphQL Schemas Q&A
+Finish
 
 4. Resolvers
 
