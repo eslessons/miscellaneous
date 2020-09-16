@@ -12,6 +12,12 @@ Finish
 
 2. GraphQL
 Start
+	GraphQL Basics & Starting the Server
+	GraphQL Playground
+	GraphQL Exploration Excercise
+	GraphQL Q&A
+	GraphQL Exploration Review
+Finish
 
 3. Schemas
 
