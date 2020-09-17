@@ -35,8 +35,19 @@ Finish
 
 4. Resolvers
 Start
-
-
+	Resolvers
+	Resolver Arguments
+	Errors in Resolvers
+	Implementing a Resolver
+	Field Type Resolvers
+	Nested Resolvers
+	Relational Data
+	Query Errors
+	Info Resolver Argument
+	Resolvers Excercise
+	Resolvers Solution
+	Resolvers Q&A
+Finish
 
 5. Interfaces
 
