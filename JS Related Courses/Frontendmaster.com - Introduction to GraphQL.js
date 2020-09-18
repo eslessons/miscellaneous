@@ -66,6 +66,12 @@ Finish
 
 7. Advanced Topics
 Start
-
+	1. Testing with Jest
+	2. Caching & Performance
+	3. Dates & Custom Scalars
+	4. Layering GraphQL on REST	
+	5. Sending Multiple Queries
+	6. More GraphQL Tools & Services
+Finish
 
 */ 
