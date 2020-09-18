@@ -59,6 +59,10 @@ Finish
 
 6. Auth
 Start
+	1. Authentication
+	2. Authentication Exercise
+	3. Authentication Solution
+Finish
 
 7. Advanced Topics
 
