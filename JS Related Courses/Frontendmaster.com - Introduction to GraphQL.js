@@ -58,6 +58,7 @@ Start
 Finish
 
 6. Auth
+Start
 
 7. Advanced Topics
 
