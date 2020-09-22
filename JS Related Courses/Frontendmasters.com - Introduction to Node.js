@@ -41,6 +41,13 @@ Finish
 
 4. Asynchronous Node
 Start
+	Asynchronous Code in Node.js
+	Asynchronous Patterns
+	Error Handling
+	Servers
+	Asynchronous Server Excercise
+	Asynchronous Server Solution
+Finish
 
 5. Debugging & Testing
 6. Publishing and Deploying
