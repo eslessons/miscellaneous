@@ -28,18 +28,20 @@ Finish
 
 3. Internal Modules & npm
 Start
-	1. The fs Module
-	2. Other Internal Node Modules
-	3. Remote Modules
-	4. Modules Recap
-	5. npm
-	6. yarn
-	7. CLI with Node Exercise
-	8. CLI with Node Solution
-	9. commander Module for Building CLIs
+	The fs Module
+	Other Internal Node Modules
+	Remote Modules
+	Modules Recap
+	npm
+	yarn
+	CLI with Node Exercise
+	CLI with Node Solution
+	commander Module for Building CLIs
 Finish
 
 4. Asynchronous Node
+Start
+
 5. Debugging & Testing
 6. Publishing and Deploying
 
