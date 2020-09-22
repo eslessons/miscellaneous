@@ -27,6 +27,8 @@ Start
 Finish
 
 3. Internal Modules & npm
+Start
+
 4. Asynchronous Node
 5. Debugging & Testing
 6. Publishing and Deploying
