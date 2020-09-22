@@ -3,31 +3,41 @@ Introduction to Node.js
 
 1. Introduction
 Start
-	1. Course Overview
-	2. What is Node.js
-	3. Creating with Node.js
-	4. Installing Node.js
-	5. Running Node.js Code
-	6. Installing Node.js from the source
-	7. Installing Node.js with NVM
-	8. Install and Run Node.js Exercise
-	9. Checking Install & Running Node.js Solution
+	Course Overview
+	What is Node.js
+	Creating with Node.js
+	Installing Node.js
+	Running Node.js Code
+	Installing Node.js from the source
+	Installing Node.js with NVM
+	Install and Run Node.js Exercise
+	Checking Install & Running Node.js Solution
 Finish
 
 2. Node.js Modules
 Start
-	1. Browser JavaScript vs Node.js
-	2. Globals in Node.js
-	3. Node.js Modules
-	4. Creating Node Modules
-	5. Importing Node Modules
-	6. Q&A- ES Modules & Latest JS Features
-	7. Convert Browser JavaScript Exercise
-	8. Convert Browser JavaScript Solution
+	Browser JavaScript vs Node.js
+	Globals in Node.js
+	Node.js Modules
+	Creating Node Modules
+	Importing Node Modules
+	Q&A- ES Modules & Latest JS Features
+	Convert Browser JavaScript Exercise
+	Convert Browser JavaScript Solution
 Finish
 
 3. Internal Modules & npm
 Start
+	1. The fs Module
+	2. Other Internal Node Modules
+	3. Remote Modules
+	4. Modules Recap
+	5. npm
+	6. yarn
+	7. CLI with Node Exercise
+	8. CLI with Node Solution
+	9. commander Module for Building CLIs
+Finish
 
 4. Asynchronous Node
 5. Debugging & Testing
