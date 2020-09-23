@@ -61,6 +61,10 @@ Finish
 
 6. Publishing and Deploying
 Start
-	
-
+	Sharing Modules
+	Deploying Your Server
+	Deploying to Heroku
+	Further Tools & Resources
+	Final Q&A
+Finish
 */
