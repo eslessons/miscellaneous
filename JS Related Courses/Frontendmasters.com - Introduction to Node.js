@@ -51,6 +51,13 @@ Finish
 
 5. Debugging & Testing
 Start
+	Debugging Node
+	Testing Node Libraries
+	Anatomy of Tests
+	Types of Tests
+	Debugging & Testing Excercise
+	Debugging & Testing Solution
+Finish
 
 6. Publishing and Deploying
 
