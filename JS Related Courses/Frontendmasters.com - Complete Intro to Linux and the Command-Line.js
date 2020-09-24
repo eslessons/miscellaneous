@@ -3,6 +3,11 @@ Complete Intro to Linux and the Command-Line
 
 1. Introduction
 Start
+	Introduction
+	What is Unix
+	What is Linux
+	How to Run Linux
+Finish
 
 2. The CLI
 3. Editors
