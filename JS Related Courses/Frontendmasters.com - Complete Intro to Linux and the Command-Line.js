@@ -21,6 +21,8 @@ Start
 Finish
 
 3. Editors
+Start
+
 4. Files, Pipes, & Permissions
 5. Environments & Processes
 6. Networking & the Internet
