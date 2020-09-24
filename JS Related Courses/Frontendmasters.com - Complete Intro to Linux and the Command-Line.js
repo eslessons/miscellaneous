@@ -22,6 +22,10 @@ Finish
 
 3. Editors
 Start
+	nano
+	VIM - A Brief History
+	VIM - Basic Commands
+Finish
 
 4. Files, Pipes, & Permissions
 5. Environments & Processes
