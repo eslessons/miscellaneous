@@ -10,6 +10,8 @@ Start
 Finish
 
 2. The CLI
+Start
+
 3. Editors
 4. Files, Pipes, & Permissions
 5. Environments & Processes
