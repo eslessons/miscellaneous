@@ -11,6 +11,14 @@ Finish
 
 2. The CLI
 Start
+	Anatomy of the Command Line Interface
+	CLI Directories & Arguments
+	Flags
+	CLI Search
+	Bash History
+	CLI Shortcuts
+	Signals
+Finish
 
 3. Editors
 4. Files, Pipes, & Permissions
