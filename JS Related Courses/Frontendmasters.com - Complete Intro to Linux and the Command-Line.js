@@ -29,7 +29,17 @@ Finish
 
 4. Files, Pipes, & Permissions
 Start
-
+	Reading Files
+	Creating & Moving Files
+	Wildcards & Replacements
+	Output Streams
+	Input Streams
+	Pipes
+	Principle of Least Power
+	Superuser
+	Group Permissions
+	Permission Shortcuts
+Finish
 
 5. Environments & Processes
 6. Networking & the Internet
