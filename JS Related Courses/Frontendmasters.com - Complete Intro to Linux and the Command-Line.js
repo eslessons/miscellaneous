@@ -28,6 +28,8 @@ Start
 Finish
 
 4. Files, Pipes, & Permissions
+Start
+
 5. Environments & Processes
 6. Networking & the Internet
 7. Package Management
