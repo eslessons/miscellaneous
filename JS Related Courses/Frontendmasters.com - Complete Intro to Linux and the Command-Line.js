@@ -43,6 +43,11 @@ Finish
 
 5. Environments & Processes
 Start
+	Environments
+	Processes
+	Exit Codes & Process Operators
+	Subcommands
+Finish
 
 6. Networking & the Internet
 7. Package Management
