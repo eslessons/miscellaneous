@@ -42,6 +42,8 @@ Start
 Finish
 
 5. Environments & Processes
+Start
+
 6. Networking & the Internet
 7. Package Management
 8. Shell Scripts
