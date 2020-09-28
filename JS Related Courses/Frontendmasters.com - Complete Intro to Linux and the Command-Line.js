@@ -68,6 +68,14 @@ Finish
 
 8. Shell Scripts
 Start
+	Writing Scripts
+	Hashbang
+	Path & Variables
+	Arguments
+	Conditionals - If Statements & Tests
+	Conditionals - Else, Else If & Case Statement
+	Loops & Arrays
+Finish
 
 9. Automation & Customization
 10. Wrapping Up
