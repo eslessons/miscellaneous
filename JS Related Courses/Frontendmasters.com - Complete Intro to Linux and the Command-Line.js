@@ -61,6 +61,10 @@ Finish
 
 7. Package Management
 Start
+	Package Management & APT Basics
+	APT Q&A
+	Snaps
+Finish
 
 8. Shell Scripts
 9. Automation & Customization
