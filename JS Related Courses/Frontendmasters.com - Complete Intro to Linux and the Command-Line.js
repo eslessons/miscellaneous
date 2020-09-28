@@ -50,6 +50,8 @@ Start
 Finish
 
 6. Networking & the Internet
+Start
+
 7. Package Management
 8. Shell Scripts
 9. Automation & Customization
