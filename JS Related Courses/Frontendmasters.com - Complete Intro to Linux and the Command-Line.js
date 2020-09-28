@@ -51,6 +51,13 @@ Finish
 
 6. Networking & the Internet
 Start
+	SSH & Secondary Machine
+	Linking two Machines with SSH
+	SFTP
+	Wget
+	curl Basics
+	curl & HTTP Verbs
+Finish
 
 7. Package Management
 8. Shell Scripts
