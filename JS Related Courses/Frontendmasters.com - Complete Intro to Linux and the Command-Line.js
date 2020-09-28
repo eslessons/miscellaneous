@@ -60,6 +60,8 @@ Start
 Finish
 
 7. Package Management
+Start
+
 8. Shell Scripts
 9. Automation & Customization
 10. Wrapping Up
