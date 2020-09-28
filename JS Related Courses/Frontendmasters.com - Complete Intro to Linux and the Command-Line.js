@@ -79,7 +79,11 @@ Finish
 
 9. Automation & Customization
 Start
-	
+	cron
+	Customize Your Shell
+	Colors & Awesome Bash
+Finish
+
 10. Wrapping Up
 
 */
