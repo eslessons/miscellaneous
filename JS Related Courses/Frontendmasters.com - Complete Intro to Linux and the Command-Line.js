@@ -67,6 +67,8 @@ Start
 Finish
 
 8. Shell Scripts
+Start
+
 9. Automation & Customization
 10. Wrapping Up
 
