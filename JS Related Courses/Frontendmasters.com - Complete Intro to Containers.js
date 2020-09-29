@@ -8,6 +8,13 @@ Finish
 
 2. Containers
 Start
+	Containers
+	chroot
+	chroot Exercise
+	chroot Solution
+	Namespaces
+	cgroups
+Finish
 
 3. Docker
 4. The Dockerfile
