@@ -17,6 +17,8 @@ Start
 Finish
 
 3. Docker
+Start
+
 4. The Dockerfile
 5. Making Tiny Containers
 6. Features in Docker
