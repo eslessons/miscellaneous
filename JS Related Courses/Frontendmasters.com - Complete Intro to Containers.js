@@ -7,6 +7,8 @@ Start
 Finish
 
 2. Containers
+Start
+
 3. Docker
 4. The Dockerfile
 5. Making Tiny Containers
