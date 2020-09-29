@@ -18,6 +18,13 @@ Finish
 
 3. Docker
 Start
+	Getting Set Up with Docker
+	Docker Images without Docker
+	Docker Images with Docker
+	Node.js on Docker
+	Tags
+	Docker CLI
+Finish
 
 4. The Dockerfile
 5. Making Tiny Containers
