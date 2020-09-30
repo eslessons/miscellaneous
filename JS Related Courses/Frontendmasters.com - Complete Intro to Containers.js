@@ -28,6 +28,14 @@ Finish
 
 4. The Dockerfile
 Start
+	Dockerfiles Preamble
+	Build a Node.js App
+	Run a Node.js App
+	Add Dependencies to a Node.js App
+	EXPOSE
+	Layers
+	Docker Ignore
+Finish
 
 5. Making Tiny Containers
 6. Features in Docker
