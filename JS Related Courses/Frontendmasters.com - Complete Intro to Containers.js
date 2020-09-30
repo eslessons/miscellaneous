@@ -38,6 +38,8 @@ Start
 Finish
 
 5. Making Tiny Containers
+Start
+
 6. Features in Docker
 7. Multi Container Projects
 8. OCI
