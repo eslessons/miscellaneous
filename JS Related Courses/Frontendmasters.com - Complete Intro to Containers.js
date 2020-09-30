@@ -27,6 +27,8 @@ Start
 Finish
 
 4. The Dockerfile
+Start
+
 5. Making Tiny Containers
 6. Features in Docker
 7. Multi Container Projects
