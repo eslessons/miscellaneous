@@ -58,6 +58,13 @@ Finish
 
 7. Multi Container Projects
 Start
+	Docker Compose
+	Docker Compose & nodemon
+	Kubernetes Fundamentals
+	Kubernetes & kubectl
+	Kompose
+	Multiple Containers with Kompose
+Finish
 
 8. OCI
 9. Wrapping Up
