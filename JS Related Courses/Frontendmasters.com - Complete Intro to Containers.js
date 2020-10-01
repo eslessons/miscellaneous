@@ -48,7 +48,14 @@ Finish
 
 6. Features in Docker
 Start
-	
+	Bind Mounts
+	Volumes
+	Containers & Dev Environment
+	Dev Containers with Visual Studio Code
+	Networks & Docker- MongoDB Container
+	Networks & Docker- Client Side Container
+Finish
+
 7. Multi Container Projects
 8. OCI
 9. Wrapping Up
