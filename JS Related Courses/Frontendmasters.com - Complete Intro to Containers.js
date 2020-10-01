@@ -68,6 +68,10 @@ Finish
 
 8. OCI
 Start
+	Buildah & Docker
+	Buildah
+	Podman
+Finish
 
 9. Wrapping Up
 
