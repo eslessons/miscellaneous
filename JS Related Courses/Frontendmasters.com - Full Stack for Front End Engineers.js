@@ -19,6 +19,13 @@ Finish
 
 3. VIM
 Start
+	1. Excercise 3 - Introducing Vim
+	2. Excercise 4 - Vim modes
+	3. VIM command mode
+	4. Excercise 5 - Vim command mode
+	5. Editing and Saving in Vim
+	6. Excercise 6 - Editing and Saving in Vim
+Finish
 
 4. Servers
 5. Setting Up A VPS
