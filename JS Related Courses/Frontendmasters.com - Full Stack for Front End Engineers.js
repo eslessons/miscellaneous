@@ -7,6 +7,8 @@ Start
 Finish
 
 2. Domains
+Start 
+
 3. VIM
 4. Servers
 5. Setting Up A VPS
