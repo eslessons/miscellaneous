@@ -18,6 +18,8 @@ Start
 Finish
 
 3. VIM
+Start
+
 4. Servers
 5. Setting Up A VPS
 6. Getting A Domain Name
