@@ -8,6 +8,14 @@ Finish
 
 2. Domains
 Start 
+	1. Introducing domains
+	2. DNS
+	3. Excercise 1 - Ping
+	4. DNS Caches
+	5. Security
+	6. Cache Poisoning
+	7. Excercise 2 - Traceroute
+Finish
 
 3. VIM
 4. Servers
