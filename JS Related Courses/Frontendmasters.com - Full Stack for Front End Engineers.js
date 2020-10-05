@@ -35,6 +35,8 @@ Start
 Finish
 
 5. Setting Up A VPS
+Start
+
 6. Getting A Domain Name
 7. Setting Up The Server
 8. Modifying The Server
