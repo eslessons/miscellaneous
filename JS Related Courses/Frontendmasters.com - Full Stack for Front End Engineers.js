@@ -45,8 +45,10 @@ Start
 	7. Disable Root Access
 Finish
 
-
 6. Getting A Domain Name
+Start
+
+
 7. Setting Up The Server
 8. Modifying The Server
 9. Deploying Code
