@@ -47,7 +47,11 @@ Finish
 
 6. Getting A Domain Name
 Start
-
+	1. Buying a Domain
+	2. Associating the DNS
+	3. Using CNAMEs
+	4. Wrapping Up
+Finish
 
 7. Setting Up The Server
 8. Modifying The Server
