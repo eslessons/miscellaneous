@@ -36,6 +36,15 @@ Finish
 
 5. Setting Up A VPS
 Start
+	1. VPS and Cloud Computing
+	2. Exercise 9 - Buy a VPS
+	3. Exercise 10 - Log Onto Your Own Server
+	4. Exercise 11 - Top
+	5. Exercise 12 - Setting Up Your Server
+	6. Logging In With SSH
+	7. Disable Root Access
+Finish
+
 
 6. Getting A Domain Name
 7. Setting Up The Server
