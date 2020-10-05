@@ -29,6 +29,10 @@ Finish
 
 4. Servers
 Start
+	1. Excercise 7 - Introducing Servers
+	2. SSH
+	3. Excercise 8 - Creating an SSH Key
+Finish
 
 5. Setting Up A VPS
 6. Getting A Domain Name
