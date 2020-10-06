@@ -75,6 +75,10 @@ Finish
 
 9. Deploying Code
 Start
+	1. Deploying Code and Introducing Gulp
+	2. Exercise 15 - Creating Gulp Tasks
+	3. Installing Gulp
+Finish
 
 10. Log Files
 11. Putting It All Together
