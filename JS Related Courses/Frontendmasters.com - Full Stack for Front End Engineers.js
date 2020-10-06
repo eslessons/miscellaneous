@@ -54,8 +54,11 @@ Start
 Finish
 
 7. Setting Up The Server
+Start
+
 8. Modifying The Server
 9. Deploying Code
+
 10. Log Files
 11. Putting It All Together
 12. Wrapping Up And Q7A
