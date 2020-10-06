@@ -70,6 +70,8 @@ Finish
 
 8. Modifying The Server
 Start
+	1. Changing Server Posts
+Finish
 
 9. Deploying Code
 
