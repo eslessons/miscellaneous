@@ -74,6 +74,7 @@ Start
 Finish
 
 9. Deploying Code
+Start
 
 10. Log Files
 11. Putting It All Together
