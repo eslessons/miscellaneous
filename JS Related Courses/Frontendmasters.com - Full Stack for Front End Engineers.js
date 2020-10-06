@@ -55,6 +55,18 @@ Finish
 
 7. Setting Up The Server
 Start
+	1. Introducing Unix Operating Systems
+	2. Introducing Ngnix
+	3. Exercise 13 - Nginx
+	4. Exercise 14 - Nginx Configuration
+	5. Installing Git, NodeJS, and NPM
+	6. Making a Symbolic Link
+	7. Creating a Web Direcoty
+	8. Changing Permissions
+	9. Cloning a Git Repository
+	10. Rename Directory And Installing npm
+	11. Starting the Server
+Finish
 
 8. Modifying The Server
 9. Deploying Code
