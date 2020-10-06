@@ -69,6 +69,8 @@ Start
 Finish
 
 8. Modifying The Server
+Start
+
 9. Deploying Code
 
 10. Log Files
