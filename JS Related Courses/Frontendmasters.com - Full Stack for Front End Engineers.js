@@ -88,6 +88,8 @@ Finish
 
 11. Putting It All Together
 Start
+	1. Exercise 17 - Putting It All Together
+Finish
 
 12. Wrapping Up And Q7A
 
