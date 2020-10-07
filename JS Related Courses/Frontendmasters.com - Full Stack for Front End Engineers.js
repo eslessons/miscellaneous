@@ -81,6 +81,11 @@ Start
 Finish
 
 10. Log Files
+Start
+	1. Log Files
+	2. Exercise 16 - Talling a Log File
+Finish
+
 11. Putting It All Together
 12. Wrapping Up And Q7A
 
