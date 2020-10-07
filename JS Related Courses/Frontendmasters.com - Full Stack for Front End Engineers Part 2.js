@@ -3,6 +3,9 @@ Full Stack for Front End Engineers Part 2
 
 1. Getting Started with Full Stack
 Start
+	1. Course Introduction
+	2. Full Stack for Frontend Part 1 Recap & Purpose
+Finish
 
 2. Server Setup
 3. Server Security
