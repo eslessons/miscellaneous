@@ -9,6 +9,9 @@ Finish
 
 2. Server Setup
 Start
+	1. Basic Server Setup, Updating and User Permissions
+	2. Node setup and installation
+Finish
 
 3. Server Security
 4. Advanced Shells
