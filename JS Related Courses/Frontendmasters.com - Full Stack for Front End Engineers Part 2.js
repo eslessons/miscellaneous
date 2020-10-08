@@ -8,6 +8,8 @@ Start
 Finish
 
 2. Server Setup
+Start
+
 3. Server Security
 4. Advanced Shells
 5. HTTPS
