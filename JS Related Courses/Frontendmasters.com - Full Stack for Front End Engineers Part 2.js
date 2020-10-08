@@ -14,6 +14,8 @@ Start
 Finish
 
 3. Server Security
+Start
+
 4. Advanced Shells
 5. HTTPS
 6. Nginx Tuning
