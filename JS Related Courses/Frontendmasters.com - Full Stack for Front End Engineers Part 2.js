@@ -15,6 +15,15 @@ Finish
 
 3. Server Security
 Start
+	1. Security Overview
+	2. Adding SSH keys
+	3. Security Settings
+	4. Firewalls
+	5. Firewall configuration - iptables
+	6. Firewall configuration - UFW and GUI options
+	7. Automatic Updates
+	8. Fail2ban - Exercise
+Finish
 
 4. Advanced Shells
 5. HTTPS
