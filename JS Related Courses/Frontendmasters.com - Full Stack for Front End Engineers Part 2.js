@@ -49,6 +49,8 @@ Start
 Finish
 
 6. Nginx Tuning
+Start
+
 7. Databases
 8. Containers and More
 9. Wrapping Up
