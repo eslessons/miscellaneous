@@ -27,6 +27,15 @@ Finish
 
 4. Advanced Shells
 Start
+	1. Shell Tools - Find and Grep
+	2. Find - Exercise
+	3. Grep - Exercise
+	4. Redirections
+	5. Shells
+	6. Shell scripting
+	7. Bash scripting - Exercise
+	8. Creating a shell script with Node - Exercise
+Finish
 
 5. HTTPS
 6. Nginx Tuning
