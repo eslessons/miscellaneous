@@ -39,6 +39,14 @@ Finish
 
 5. HTTPS
 Start
+	1. Nginx Setup - Installation
+	2. Nginx Setup - proxy traffic to node server
+	3. Nginx Setup - Adding a domain name and opening port 443
+	4. Why HTTPS
+	5. Installing HTTPS certificate
+	6. cron
+	7. cron - Excercise
+Finish
 
 6. Nginx Tuning
 7. Databases
