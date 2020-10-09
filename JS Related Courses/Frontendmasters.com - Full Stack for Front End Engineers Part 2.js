@@ -26,6 +26,8 @@ Start
 Finish
 
 4. Advanced Shells
+Start
+
 5. HTTPS
 6. Nginx Tuning
 7. Databases
