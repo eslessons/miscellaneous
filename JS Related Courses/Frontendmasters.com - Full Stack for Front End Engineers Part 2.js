@@ -50,6 +50,16 @@ Finish
 
 6. Nginx Tuning
 Start
+	1. Nginx Tuning - Overview and Gzip
+	2. Expires headers
+	3. Caching
+	4. Websockets - Setup
+	5. Websockets - Client-side code and observables
+	6. Websockets - Excercise
+	7. http-2
+	8. http-2 - Excercise
+	9. Redirect
+Finish
 
 7. Databases
 8. Containers and More
