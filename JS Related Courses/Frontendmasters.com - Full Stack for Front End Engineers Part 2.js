@@ -63,6 +63,10 @@ Finish
 
 7. Databases
 Start
+	1. Database Types
+	2. Exercise - MySQL Installation
+	3. Database Best Practices
+Finish
 
 8. Containers and More
 9. Wrapping Up
