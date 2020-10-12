@@ -70,7 +70,10 @@ Finish
 
 8. Containers and More
 Start
-
+	1. Containers
+	2. Orchestration
+	3. Automated Deployments
+Finish
 
 9. Wrapping Up
 
