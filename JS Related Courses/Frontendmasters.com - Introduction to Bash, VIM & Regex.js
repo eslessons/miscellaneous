@@ -11,6 +11,8 @@ Start
 Finish
 
 2. File Management
+Start
+
 3. Pipes
 4. Bash Shell Scripts
 5. Regular Expressions
