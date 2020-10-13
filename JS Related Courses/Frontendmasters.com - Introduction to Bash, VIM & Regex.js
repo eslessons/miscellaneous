@@ -23,6 +23,17 @@ Finish
 
 3. Pipes
 Start
+	1. Pipes
+	2. Curl, Grep, and Pipeline
+	3. head and tail commands
+	4. Calendar and Dates
+	5. Shorten Lines
+	6. More Curl and Grep
+	7. Backticks and Arithmetic
+	8. Q&A - Watch and Weather
+	9. Environmental Variables
+	10. Quotes
+Finish
 
 4. Bash Shell Scripts
 5. Regular Expressions
