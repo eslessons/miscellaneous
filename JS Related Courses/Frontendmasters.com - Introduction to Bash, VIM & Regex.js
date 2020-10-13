@@ -22,6 +22,8 @@ Start
 Finish
 
 3. Pipes
+Start
+
 4. Bash Shell Scripts
 5. Regular Expressions
 6. VIM
