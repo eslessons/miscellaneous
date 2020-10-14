@@ -36,6 +36,8 @@ Start
 Finish
 
 4. Bash Shell Scripts
+Start
+
 5. Regular Expressions
 6. VIM
 
