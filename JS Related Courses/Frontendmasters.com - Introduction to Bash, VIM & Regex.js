@@ -48,6 +48,14 @@ Finish
 
 5. Regular Expressions
 Start
+	1. Introducing Regular Expressions
+	2. Regular Expressions in JavaScript
+	3. Flags, Metacharacters, and Quantifiers
+	4. Character Class Ranges
+	5. Anchors, Groups, and sed
+	6. Q&A - Regular Expressions Reference
+	7. Wrapping Up Regular Expressions
+Finish
 
 6. VIM
 
