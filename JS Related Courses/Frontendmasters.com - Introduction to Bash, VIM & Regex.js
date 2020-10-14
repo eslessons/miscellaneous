@@ -37,6 +37,14 @@ Finish
 
 4. Bash Shell Scripts
 Start
+	1. Introducing Scripts
+	2. Read, Loops and While
+	3. $PATH
+	4. Permissions
+	5. Exit Codes, Operators, and Subshells
+	6. Job Control
+	7. Screen
+Finish
 
 5. Regular Expressions
 6. VIM
