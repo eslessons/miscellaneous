@@ -59,5 +59,14 @@ Finish
 
 6. VIM
 Start
+	1. Introducing Vim
+	2. Using Vim
+	3. Modes ad Moving Around
+	4. Deleting and Searching
+	5. Search and Replace
+	6. Visual Select
+	7. Paste Buffer and Insert Modes
+	8. Wrapping up Vim
+Finish
 
 */
