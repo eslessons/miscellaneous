@@ -18,6 +18,11 @@ Finish
 
 3. Productivity Tricks
 Start
+	1. Emmet for HTML & CSS
+	2. Prettier in JavaScript
+	3. npm Explorer & Version Lense
+	4. Framework Snippets
+Finish
 
 4. Navigation & Refactoring
 5. Debugging
