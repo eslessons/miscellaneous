@@ -3,6 +3,9 @@ Visual Studio Code Can Do That
 
 1. Introduction
 Start
+	1. Introduction
+	2. Editor Tour & Basic Key Commands
+Finish
 
 2. Customizing the Editor
 3. Productivity Tricks
