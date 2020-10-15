@@ -8,6 +8,8 @@ Start
 Finish
 
 2. Customizing the Editor
+Start
+
 3. Productivity Tricks
 4. Navigation & Refactoring
 5. Debugging
