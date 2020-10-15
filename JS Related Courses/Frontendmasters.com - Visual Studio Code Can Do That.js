@@ -17,6 +17,8 @@ Start
 Finish
 
 3. Productivity Tricks
+Start
+
 4. Navigation & Refactoring
 5. Debugging
 6. Docker
