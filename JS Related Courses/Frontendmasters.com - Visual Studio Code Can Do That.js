@@ -53,6 +53,10 @@ Finish
 
 7. Remote Development
 Start
+	1. Developing through SSH
+	2. Developing Remote Containers
+	3. Debugging Apps in Remote Containers
+Finish
 
 8. Working with Data
 9. Git
