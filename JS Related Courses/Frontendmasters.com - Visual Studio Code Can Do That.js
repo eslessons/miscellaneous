@@ -44,6 +44,8 @@ Start
 Finish
 
 6. Docker
+Start
+
 7. Remote Development
 8. Working with Data
 9. Git
