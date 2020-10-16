@@ -26,6 +26,12 @@ Finish
 
 4. Navigation & Refactoring
 Start
+	1. Moving Code & Code Folding
+	2. Regex Find & Multiple Cursors
+	3. Navigating VS Code, Refactoring & More Shortcuts
+	4. Rename Refactor & Extract Method
+	5. Debugging with Type Checking
+Finish
 
 5. Debugging
 6. Docker
