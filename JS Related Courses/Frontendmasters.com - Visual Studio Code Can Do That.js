@@ -35,6 +35,13 @@ Finish
 
 5. Debugging
 Start
+	1. Breakpoints & Logpoints
+	2. Debugging with TypeScript
+	3. Environment Variables
+	4. Debugging with VS Code & Chrome
+	5. Full Stack Compound Configs
+	6. nodemon
+Finish
 
 6. Docker
 7. Remote Development
