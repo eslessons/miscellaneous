@@ -45,6 +45,11 @@ Finish
 
 6. Docker
 Start
+	1. Dockerizing an Application
+	2. Deploying to a Container Registry
+	3. Docker Compose Up
+	4. Debugging Containers
+Finish
 
 7. Remote Development
 8. Working with Data
