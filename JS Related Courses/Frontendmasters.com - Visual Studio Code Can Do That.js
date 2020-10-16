@@ -52,6 +52,8 @@ Start
 Finish
 
 7. Remote Development
+Start
+
 8. Working with Data
 9. Git
 
