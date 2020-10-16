@@ -25,6 +25,8 @@ Start
 Finish
 
 4. Navigation & Refactoring
+Start
+
 5. Debugging
 6. Docker
 7. Remote Development
