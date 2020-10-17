@@ -60,6 +60,11 @@ Finish
 
 8. Working with Data
 Start
+	1. Setting Up Working with Data
+	2. Working with MongoDB
+	3. Working with SQLite
+	4. Working with MySQL
+Finish
 
 9. Git
 
