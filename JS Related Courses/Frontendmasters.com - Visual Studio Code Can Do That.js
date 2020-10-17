@@ -68,6 +68,10 @@ Finish
 
 9. Git
 Start
-
+	1. Git & Source Control
+	2. Reviewing & Merging Pull Requests
+	3. GitLens
+	4. Settings Sync
+Finish
 
 */
