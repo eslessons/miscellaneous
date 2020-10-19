@@ -13,6 +13,13 @@ Finish
 
 2. Documents
 Start
+	1. Markdown
+	2. Emmet & HTML
+	3. Emmet & CSS
+	4. Challenge 1 - Rapid Expansion
+`	5. Challenge 1 - Solution, Part 1
+	6. Challenge 1 - Solution, Part 2
+Finish
 
 3. Code Navigation & Refactoring
 4. Type Checking
