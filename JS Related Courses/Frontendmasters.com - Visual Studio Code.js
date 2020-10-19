@@ -23,6 +23,14 @@ Finish
 
 3. Code Navigation & Refactoring
 Start
+	1. Go To
+	2. Selection
+	3. Multi-Cursor & Line Manipulation
+	4. Peek Editing
+	5. Renaming
+	6. Challenge 2 - Refactoring
+	7. Challenge 2 - Solution
+Finish
 
 4. Type Checking
 5. Debugging
