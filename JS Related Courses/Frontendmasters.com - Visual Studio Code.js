@@ -12,6 +12,8 @@ Start
 Finish
 
 2. Documents
+Start
+
 3. Code Navigation & Refactoring
 4. Type Checking
 5. Debugging
