@@ -22,6 +22,8 @@ Start
 Finish
 
 3. Code Navigation & Refactoring
+Start
+
 4. Type Checking
 5. Debugging
 6. Workspace Customization
