@@ -47,6 +47,8 @@ Start
 Finish
 
 5. Debugging
+Start
+
 6. Workspace Customization
 7. Tasks
 8. Launch Configuration
