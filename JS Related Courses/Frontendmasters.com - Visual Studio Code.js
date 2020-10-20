@@ -48,6 +48,13 @@ Finish
 
 5. Debugging
 Start
+	1. Debugging Node
+	2. Debugging Node with Editors
+	3. Debugging Node with VS Code
+	4. Debugging Chrome with VS Code
+	5. Challenge 4 - Multi-Process Debugging
+	6. Challenge 4 - Solution
+Finish
 
 6. Workspace Customization
 7. Tasks
