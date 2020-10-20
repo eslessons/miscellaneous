@@ -58,6 +58,14 @@ Finish
 
 6. Workspace Customization
 Start
+	1. Benefits of Customization
+	2. VS Code Themes
+	3. Custom Fonts
+	4. Key Bindings
+	5. Code Snippets
+	6. Challenge 5 - VS Code Tune-Up
+	7. Challenge 5 - Solution
+Finish
 
 7. Tasks
 8. Launch Configuration
