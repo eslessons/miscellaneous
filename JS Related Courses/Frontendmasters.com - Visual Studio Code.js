@@ -33,6 +33,8 @@ Start
 Finish
 
 4. Type Checking
+Start
+
 5. Debugging
 6. Workspace Customization
 7. Tasks
