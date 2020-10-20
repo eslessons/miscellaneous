@@ -57,6 +57,8 @@ Start
 Finish
 
 6. Workspace Customization
+Start
+
 7. Tasks
 8. Launch Configuration
 9. Wrapping Up VS Code
