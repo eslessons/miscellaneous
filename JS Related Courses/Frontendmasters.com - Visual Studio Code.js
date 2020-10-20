@@ -34,6 +34,17 @@ Finish
 
 4. Type Checking
 Start
+	1. Intorducing Type Checking
+	2. Benefits of Types
+	3. Categories of Type Systems
+	4. Type Checking in VS Code
+	5. Annotating Types
+	6. Functions
+	7. Generics
+	8. Custom Types
+	9. Challenge 3 - Data Layer Types
+	10. Challenge 3 - Solution
+Finish
 
 5. Debugging
 6. Workspace Customization
