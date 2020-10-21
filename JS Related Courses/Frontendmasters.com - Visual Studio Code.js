@@ -76,6 +76,9 @@ Finish
 
 8. Launch Configuration
 Start
+	1. Launch Settings
+	2. Challenge & Solution 7 - Analyze & Monitor
+Finish
 
 9. Wrapping Up VS Code
 
