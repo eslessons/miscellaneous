@@ -82,5 +82,8 @@ Finish
 
 9. Wrapping Up VS Code
 Start
+	1. VS Code Extension Recommendations
+	2. Wrapping Up
+Finish
 
 */
