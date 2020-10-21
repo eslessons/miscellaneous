@@ -75,6 +75,8 @@ Start
 Finish
 
 8. Launch Configuration
+Start
+
 9. Wrapping Up VS Code
 
 */
