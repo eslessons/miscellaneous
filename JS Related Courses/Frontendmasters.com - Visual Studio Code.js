@@ -69,6 +69,10 @@ Finish
 
 7. Tasks
 Start
+	1. Introducing Custom VS Code Tasks
+	2. Challenge 6 - TSLint Problems
+	3. Challenge 6 - Solution
+Finish
 
 8. Launch Configuration
 9. Wrapping Up VS Code
