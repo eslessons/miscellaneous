@@ -42,6 +42,12 @@ Finish
 
 5. Codemods and AST
 Start
+	1. Introducing Codemods and AST
+	2. Challenge 10 - Upgrade Patterns
+	3. Challenge 10 - Solution
+	4. Challenge 11 -Swap Out Utilities
+	5. Challenge 11 - Solution
+Finish
 
 6. Wrapping Up Code Transformation And Linting With Abstract Syntax Trees
 
