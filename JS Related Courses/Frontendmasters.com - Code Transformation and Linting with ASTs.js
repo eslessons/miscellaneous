@@ -28,6 +28,8 @@ Start
 Finish
 
 4. Babel Plugin and AST
+Start
+
 5. Codemods and AST
 6. Wrapping Up Code Transformation And Linting With Abstract Syntax Trees
 
