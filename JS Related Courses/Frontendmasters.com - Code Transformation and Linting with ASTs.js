@@ -29,6 +29,16 @@ Finish
 
 4. Babel Plugin and AST
 Start
+	1. Introducing Babel and AST
+	2. Challenge 6 - Captains Log
+	3. Challenge 6 - Solution
+	4. Challenge 7 - Prefixing
+	5. Challenge 7 - Solution
+	6. Challenge 8 - Arrow Function
+	7. Challenge 8 - Solution
+	8. Challenge 9 - Divide Function
+	9. Challenge 9 - Solution
+Finish
 
 5. Codemods and AST
 6. Wrapping Up Code Transformation And Linting With Abstract Syntax Trees
