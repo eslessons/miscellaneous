@@ -18,6 +18,8 @@ Start
 Finish
 
 03. And Then There Was JavaScript
+Start
+
 04. Function the Ultimate
 05. Problems
 06. Monads & Gonads
