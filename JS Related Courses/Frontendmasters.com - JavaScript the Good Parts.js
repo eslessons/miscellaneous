@@ -19,7 +19,14 @@ Finish
 
 03. And Then There Was JavaScript
 Start
-
+	01. The History of JavaScript
+	02. JavaScript Fundamentals
+	03. Numbers
+	04. Strings and Arrays
+	05. Objects
+	06. Common JavaScript Statements
+Finish
+	
 04. Function the Ultimate
 05. Problems
 06. Monads & Gonads
