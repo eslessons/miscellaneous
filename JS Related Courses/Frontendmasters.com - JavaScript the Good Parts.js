@@ -7,6 +7,8 @@ Start
 Finish
 
 02. Programming Style & Your Brain
+Start
+
 03. And Then There Was JavaScript
 04. Function the Ultimate
 05. Problems
