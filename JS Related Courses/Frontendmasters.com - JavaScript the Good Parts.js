@@ -37,6 +37,11 @@ Finish
 
 05. Problems
 Start
+	01. Problems 1-5
+	02. Problems 6-9
+	03. Problems 10-12
+	04. Problems 13-15
+Finish
 
 06. Monads & Gonads
 
