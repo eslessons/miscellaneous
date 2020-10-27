@@ -29,6 +29,11 @@ Finish
 	
 04. Function the Ultimate
 Start
+	01. Background on Functions
+	02. Functions as Subroutines
+	03. Prototypal Inheritance (A)
+	04. Prototypal Inheritance (B)
+Finish
 
 05. Problems
 06. Monads & Gonads
