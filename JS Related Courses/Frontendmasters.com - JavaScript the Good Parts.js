@@ -28,6 +28,8 @@ Start
 Finish
 	
 04. Function the Ultimate
+Start
+
 05. Problems
 06. Monads & Gonads
 
