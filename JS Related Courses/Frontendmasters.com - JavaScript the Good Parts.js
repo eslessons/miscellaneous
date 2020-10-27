@@ -45,5 +45,13 @@ Finish
 
 06. Monads & Gonads
 Start
+	01. Introduction to Monads
+	02. The Identity Monad
+	03. The Ajax Monad
+	04. The Maybe Monad
+	05. The Promise Monad (A)
+	06. The Promise Monad (B)
+	07. Audience Questions
+Finish
 
 */
