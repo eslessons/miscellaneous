@@ -25,6 +25,15 @@ Finish
 
 3 - Creating Array Functions
 Start
+	1 - Exercises 1-5
+	2 - Exercises 6-11
+	3 - Exercise 12
+	4 - Exercises 13-14
+	5 - Exercises 15-17
+	6 - Exercises 18-19
+	7 - Exercise 20
+	8 - Exercises 21-23
+	9 - Exercise 24
 
 4 - Creating Trees
 5 - Handling Events with Observables
