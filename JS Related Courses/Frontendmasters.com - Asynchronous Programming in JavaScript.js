@@ -3,6 +3,11 @@ Asynchronous Programming in JavaScript
 
 1 - Building Blocks
 Start
+	1 - Introduction
+	2 - JavaScript Tutorial
+	3 - Creating Collections
+	4 - Iterators and Observers
+Finish
 
 2 - Observables
 3 - Creating Array Functions
