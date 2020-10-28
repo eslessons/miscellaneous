@@ -10,6 +10,8 @@ Start
 Finish
 
 2 - Observables
+Start
+
 3 - Creating Array Functions
 4 - Creating Trees
 5 - Handling Events with Observables
