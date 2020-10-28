@@ -24,6 +24,8 @@ Start
 Finish
 
 3 - Creating Array Functions
+Start
+
 4 - Creating Trees
 5 - Handling Events with Observables
 6 - Handling HTTP Requests with Observables
