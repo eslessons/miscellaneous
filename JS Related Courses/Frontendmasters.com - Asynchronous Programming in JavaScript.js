@@ -38,6 +38,13 @@ Finish
 
 4 - Creating Trees
 Start
+	1 - Debugging Async
+	2 - SQL Comparison
+	3 - Exercise 25
+	4 - Exercise 26a
+	5 - Exercise 26b
+	6 - Exercise 27
+Finish
 
 5 - Handling Events with Observables
 6 - Handling HTTP Requests with Observables
