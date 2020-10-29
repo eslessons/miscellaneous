@@ -37,6 +37,8 @@ Start
 Finish
 
 4 - Creating Trees
+Start
+
 5 - Handling Events with Observables
 6 - Handling HTTP Requests with Observables
 7 - Observable In-Depth
