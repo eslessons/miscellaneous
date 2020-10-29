@@ -34,6 +34,7 @@ Start
 	7 - Exercise 20
 	8 - Exercises 21-23
 	9 - Exercise 24
+Finish
 
 4 - Creating Trees
 5 - Handling Events with Observables
