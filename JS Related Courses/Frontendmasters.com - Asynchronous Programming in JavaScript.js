@@ -48,6 +48,15 @@ Finish
 
 5 - Handling Events with Observables
 Start
+	1 - Exercises 28-30
+	2 - Exercise 31
+	3 - Observables and Events
+	4 - Anatomy of an Observable
+	5 - Creating a setTimeout Observable
+	6 - Observables vs. Promises
+	7 - Exercise 32
+	8 - Exercise 33
+Finish
 
 6 - Handling HTTP Requests with Observables
 7 - Observable In-Depth
