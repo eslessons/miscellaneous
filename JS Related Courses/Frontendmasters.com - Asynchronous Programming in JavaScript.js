@@ -60,7 +60,20 @@ Finish
 
 6 - Handling HTTP Requests with Observables
 Start
-	
+	1 - Exercise 34
+	2 - Searching Wikipedia
+	3 - JSONP as an Observable
+	4 - Composing a Stream
+	5 - Displaying Autocomplete Data
+	6 - distinctUntilChanged()
+	7 - Catching Errors
+	8 - Handling Empty Searches
+	9 - Showing the Search Box
+	10 - Close Button Observable
+	11 - Completing the Close Button
+	12 - Audience Questions
+Finish
+
 7 - Observable In-Depth
 
 */
