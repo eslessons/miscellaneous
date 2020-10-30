@@ -47,6 +47,8 @@ Start
 Finish
 
 5 - Handling Events with Observables
+Start
+
 6 - Handling HTTP Requests with Observables
 7 - Observable In-Depth
 
