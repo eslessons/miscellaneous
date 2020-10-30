@@ -59,6 +59,8 @@ Start
 Finish
 
 6 - Handling HTTP Requests with Observables
+Start
+	
 7 - Observable In-Depth
 
 */
