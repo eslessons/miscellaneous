@@ -7,7 +7,6 @@ View the complete course: http://ocw.mit.edu/6-042JF10
 
 Lecture 1: Introduction and Proofs
 Start
-Finish
 
 Lecture 2:
 Lecture 3:
