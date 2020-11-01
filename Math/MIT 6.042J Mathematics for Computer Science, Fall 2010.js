@@ -10,7 +10,9 @@ Lecture 1: Introduction and Proofs
 Start
 Finish
 
-Lecture 2:
+Lecture 2: Induction
+Start
+
 Lecture 3:
 Lecture 4:
 Lecture 5:
