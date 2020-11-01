@@ -12,6 +12,7 @@ Finish
 
 Lecture 2: Induction
 Start
+Finish
 
 Lecture 3:
 Lecture 4:
