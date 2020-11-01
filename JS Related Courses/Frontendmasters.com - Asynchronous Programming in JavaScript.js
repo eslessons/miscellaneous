@@ -76,5 +76,15 @@ Finish
 
 7 - Observable In-Depth
 Start
+	1 - Creating an Observable Class
+	2 - Observable Map Function
+	3 - Observable Filter Function
+	4 - Using the Observable Class
+	5 - Observable Take Function
+	6 - Implementing a Better Object.observe
+	7 - Binding Between Views and Models
+	8 - Syncing Data with the Server
+	9 - Observables as Animations
+Finish
 
 */
