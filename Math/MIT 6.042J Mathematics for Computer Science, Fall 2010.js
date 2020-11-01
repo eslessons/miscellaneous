@@ -4,6 +4,7 @@ Fall 2010
 
 Instructor: Tom Leighton
 View the complete course: http://ocw.mit.edu/6-042JF10
+Youtube playlist: https://www.youtube.com/playlist?list=PLWX710qNZo_sT8y9Nt8vyC_fXOEo-ebTS
 
 Lecture 1: Introduction and Proofs
 Start
