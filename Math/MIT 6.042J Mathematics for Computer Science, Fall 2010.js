@@ -14,7 +14,9 @@ Lecture 2: Induction
 Start
 Finish
 
-Lecture 3:
+Lecture 3: Strong Induction
+Start
+
 Lecture 4:
 Lecture 5:
 Lecture 6:
