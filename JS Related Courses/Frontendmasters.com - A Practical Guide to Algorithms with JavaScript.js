@@ -7,6 +7,16 @@ Start
 Finish
 
 2. Space & Time Complexity
+Start
+	1. Introducing Space & Time Complexity
+	2. Native Methods & JavaScript
+	3. Big O Notation
+	4. Space Complexity & Review
+	5. Big O- Loop
+	6. Big O- Property Lookup
+	7. Big O- Push, Shift, & Unshift
+Finish
+
 3. Optimization with Caching
 4. Recursion
 5. Divide & Conquer
