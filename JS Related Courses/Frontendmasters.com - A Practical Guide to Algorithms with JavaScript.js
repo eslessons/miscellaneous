@@ -18,6 +18,8 @@ Start
 Finish
 
 3. Optimization with Caching
+Start
+
 4. Recursion
 5. Divide & Conquer
 6. Greedy Algorithms
