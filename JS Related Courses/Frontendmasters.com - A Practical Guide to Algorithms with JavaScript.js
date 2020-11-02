@@ -19,6 +19,18 @@ Finish
 
 3. Optimization with Caching
 Start
+	1. Faster Algorithms
+	2. Unique Sort Exercise
+	3. Unique Sort Solution
+	4. Caching with Memoization
+	5. Basic Memoization Exercise
+	6. Basic Memoization Solution
+	7. Memoization with Closure Exercise
+	8. Memoization with Closure Solution
+	9. Generic Memoize Function Exercise
+	10. Generic Memoize Function Solution
+	11. Reviewing Optimization
+Finish
 
 4. Recursion
 5. Divide & Conquer
